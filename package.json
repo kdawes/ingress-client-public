@@ -5,7 +5,7 @@
     "dependencies": {
         "ingress-api": "git://git@github.com:nerdlabs/ingress-api-public.git"
     },
-    "author": "nerdlabs <npm+ingress-api@nerdlabs.it>",
+    "author": "nerdlabs <npm@nerdlabs.it>",
     "contributors": [
         {
           "name": "ZauberNerd",
