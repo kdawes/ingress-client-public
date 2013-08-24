@@ -1,0 +1,10 @@
+{
+    "name": "ingress-client",
+    "description": "ingress client lib",
+    "version": "0.0.1",
+    "dependencies": {
+        "ingress-api": "git://git@github.com:nerdlabs/ingress-api-public.git"
+    },
+    "main": "./lib/ingress-client",
+    "license": "MIT"
+}
