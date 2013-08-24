@@ -11,7 +11,7 @@ It enhances the JSON gameEntities with functionality for ease of use.
 
 ## usage
 
-``
+```javascript
 var IngressClient = require('./lib/ingress-client');
 
 var ingressClient = new IngressClient('user@domain.com', 'password');
@@ -39,4 +39,4 @@ ingressClient.login(function (err, handshake, client) {
 
 	});
 });
-``
+```
