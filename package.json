@@ -5,6 +5,21 @@
     "dependencies": {
         "ingress-api": "git://git@github.com:nerdlabs/ingress-api-public.git"
     },
+    "author": "nerdlabs <npm+ingress-api@nerdlabs.it>",
+    "contributors": [
+        {
+          "name": "ZauberNerd",
+          "email": "ZauberNerd@nerdlabs.it"
+        },
+        {
+          "name": "zined",
+          "email": "zined@nerdlabs.it"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nerdlabs/ingress-client-public.git"
+    },
     "main": "./lib/ingress-client",
     "license": "WTFPL"
 }
