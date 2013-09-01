@@ -3,7 +3,7 @@
     "description": "ingress client lib",
     "version": "0.1.0",
     "dependencies": {
-        "ingress-api": "git://git@github.com:nerdlabs/ingress-api-public.git"
+        "ingress-api": "git://github.com/nerdlabs/ingress-api-public.git"
     },
     "author": "nerdlabs <npm@nerdlabs.it>",
     "contributors": [
